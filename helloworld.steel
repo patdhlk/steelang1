@@ -1,0 +1,3 @@
+x = 1
+print("Hello World from steelang :)")
+print(x)
